@@ -1,0 +1,13 @@
+prefix=D:/grok2/jira_arangodb_connector/envv/Library
+exec_prefix=D:/grok2/jira_arangodb_connector/envv/Library
+libdir=D:/grok2/jira_arangodb_connector/envv/Library/lib
+sharedlibdir=D:/grok2/jira_arangodb_connector/envv/Library/lib
+includedir=D:/grok2/jira_arangodb_connector/envv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

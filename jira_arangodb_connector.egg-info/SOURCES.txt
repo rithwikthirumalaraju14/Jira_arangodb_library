@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+jira_arangodb_connector/__init__.py
+jira_arangodb_connector/arangodb_client.py
+jira_arangodb_connector/connector.py
+jira_arangodb_connector/jira_client.py
+jira_arangodb_connector.egg-info/PKG-INFO
+jira_arangodb_connector.egg-info/SOURCES.txt
+jira_arangodb_connector.egg-info/dependency_links.txt
+jira_arangodb_connector.egg-info/requires.txt
+jira_arangodb_connector.egg-info/top_level.txt
+tests/test_arangodb_client.py
+tests/test_connector.py
+tests/test_jira_client.py
